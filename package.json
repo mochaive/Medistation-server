@@ -1,0 +1,11 @@
+{
+  "name": "medistation_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --no-warnings app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
